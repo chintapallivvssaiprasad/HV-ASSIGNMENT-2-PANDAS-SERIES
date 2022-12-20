@@ -1,32 +1,3 @@
-##=================Default inputs================
-import pandas as pd
-
-set1 = pd.Series([5,2,9,7,10])
-set2 = pd.Series([9,8,7,6,5,])
-
-add = (set1+set2)
-sub = (set1-set2)
-mul = (set1*set2)
-div = (set1/set2)
-mod = (set1%set2)
-
-print("Addition of two numbers: ")
-print(add)
-print("subtraction of two numbers: ")
-print(sub)
-print("Multiplication of two numbers: ")
-print(mul)
-print("Division of two numbers: ")
-print(div)
-print("Modulation of two numbers: ")
-print(mod)
-
-
-
-
-
-
-
 ##====================User inputs====================
 import pandas as pd
 
