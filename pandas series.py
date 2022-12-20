@@ -14,4 +14,3 @@ print("Division of two numbers are: ")
 print(x/y)
 print("Modulation of two numbers are: ")
 print(x%y)
-
